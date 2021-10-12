@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilesing&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zstackio&repo=zstack&show_owner=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilesing&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=camilesing)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **camilesing/camilesing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
