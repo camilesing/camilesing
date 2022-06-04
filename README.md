@@ -1,12 +1,12 @@
 ### Hi there is camile👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilesing&count_private=true&theme=vue&&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilesing&count_private=true&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilesing&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilesing&langs_count=5&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilesing&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilesing&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&count_private=true)](https://git.io/streak-stats&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=camilesing)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=camilesing)](https://github.com/ryo-ma/github-profile-trophy&count_private=true)
 
 <!--
 **camilesing/camilesing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
