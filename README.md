@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilesing&count_private=true&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilesing&langs_count=5&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,ts,py,rust&perline=10)](https://skillicons.dev)
+ 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilesing&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&count_private=true)](https://git.io/streak-stats&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=camilesing)](https://github.com/ryo-ma/github-profile-trophy&count_private=true)
 
