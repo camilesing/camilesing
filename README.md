@@ -4,7 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,ts,py,rust&perline=10)](https://skillicons.dev)
 
-[![DogeKing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=camilesing&theme=dracula)](https://github.com/camilesing/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
